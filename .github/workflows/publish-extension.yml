@@ -24,7 +24,7 @@ jobs:
 
     - name: Increment version
       run: |
-        git config --global user.name "Nick Allen"
+        git config --global user.name "Nhat Nguyen Cao"
         git config --global user.email "caonhat91@gmail.com"
         npm version patch
       env:
