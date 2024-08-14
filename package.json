@@ -2,7 +2,7 @@
   "name": "nick-web-dev-pack",
   "displayName": "Web Pack for web developer",
   "description": "A collection of useful extensions for Web Developer.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "*"
   },
