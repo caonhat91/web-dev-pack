@@ -8,13 +8,13 @@
   },
   "publisher": "caonhat91",
   "author": {
-      "name": "Nhat Nguyen Cao"
+    "name": "Nhat Nguyen Cao"
   },
   "license": "MIT",
   "icon": "icon.png",
   "galleryBanner": {
-      "color": "#1e415e",
-      "theme": "dark"
+    "color": "#1e415e",
+    "theme": "dark"
   },
   "repository": {
     "url": "https://github.com/caonhat91/web-dev-pack.git"
@@ -22,7 +22,7 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "formulahendry.auto-rename-tag",
     "dbaeumer.vscode-eslint",
     "github.vscode-github-actions",
@@ -40,7 +40,10 @@
     "ritwickdey.liveserver"
   ],
   "scripts": {
-    "package": "vsce package",
-    "publish": "vsce publish"
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
   }
 }
