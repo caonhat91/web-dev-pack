@@ -4,7 +4,7 @@
   "description": "A collection of useful extensions for Web Developer.",
   "version": "0.0.4",
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "*"
   },
   "publisher": "caonhat91",
   "author": {
