@@ -28,11 +28,7 @@ jobs:
         git config --global user.name "Nhat Nguyen Cao"
         git config --global user.email "caonhat91@gmail.com"
         npm version patch
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Push changes
-      run: git push
+        git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
