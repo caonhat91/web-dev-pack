@@ -11,7 +11,7 @@ By installing Extension Pack for Web Developer, the following extensions are ins
 + 📦 ESLint
 + 📦 IntelliSense for CSS class names in HTML
 + 📦 Live Server
-+ 📦 Postman
++ 📦 Thunder Client
 + 📦 DotENV
 + 📦 Auto Rename Tag
 + 📦 GitHub Actions
@@ -19,3 +19,4 @@ By installing Extension Pack for Web Developer, the following extensions are ins
 + 📦 JSON Crack
 + 📦 IntelliJ IDEA Keybindings
 + 📦 vscode-icons
++ 📦 Mermaid

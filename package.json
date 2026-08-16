@@ -31,13 +31,14 @@
     "aykutsarac.jsoncrack-vscode",
     "ritwickdey.live",
     "yzhang.markdown-all-in-one",
-    "postman.postman-for-vscode",
+    "rangav.vscode-thunder-client",
     "vscode-icons-team.vscode-icons",
     "vue.volar",
     "angular.ng-template",
     "dsznajder.es7-react-js-snippets",
     "mikestead.dotenv",
-    "ritwickdey.liveserver"
+    "ritwickdey.liveserver",
+    "mermaidchart.vscode-mermaid-chart"
   ],
   "scripts": {
     "package": "npx vsce package",
